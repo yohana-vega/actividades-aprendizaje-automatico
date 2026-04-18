@@ -3,25 +3,24 @@
 ## Contenido
 
 ### Semana 1
-- Introducción al Aprendizaje Automático  
-- Tipos: Supervisado y No Supervisado  
-- Flujo de un proceso de Machine Learning  
-- Herramientas utilizadas  
+- Introducción al Aprendizaje Automático
+- Tipos: Supervisado y No Supervisado
+- Flujo de un proceso de Machine Learning
+- Herramientas
 
 ### Semana 2
-- Análisis de datos  
-- Exploración del dataset  
-- Identificación de variables  
-- Limpieza básica de datos  
+- Adquisición de datos
+- Importación de datos con Pandas
+- Lectura de archivos (CSV, Excel, JSON, HTML, XML, SQLite)
 
 ### Semana 3
-- Procesamiento de datos  
-- Visualización  
-- Interpretación de resultados  
-- Preparación para modelos
-  
+- Inspección de datos
+- Visualización de datos
+- Uso de Matplotlib
+- Tipos de gráficos (línea, dispersión, etc.)
+
 ## Herramientas utilizadas
-- Python  
-- Jupyter Notebook / Google Colab  
-- Pandas  
-- Matplotlib / Seaborn  
+- Python
+- Jupyter Notebook / Google Colab
+- Pandas
+- Matplotlib
