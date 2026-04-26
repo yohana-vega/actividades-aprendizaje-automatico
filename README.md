@@ -19,13 +19,13 @@
 - Uso de Matplotlib
 - Tipos de gráficos (línea, dispersión, etc.)
 
-Semana 4
-• Aprendizaje supervisado
-• Regresión (Regresión Lineal)
-• Clasificación (Regresión Logística)
-• Creación de conjuntos de datos (entrenamiento y prueba)
-• Evaluación de modelos (MAE, MSE, R2)
-• Regresión contraída (Ridge)
+### Semana 4
+- Aprendizaje supervisado
+- Regresión (Regresión Lineal)
+- Clasificación (Regresión Logística)
+- Creación de conjuntos de datos (entrenamiento y prueba)
+- Evaluación de modelos (MAE, MSE, R2)
+- Regresión contraída (Ridge)
 
 ## Herramientas utilizadas
 - Python
